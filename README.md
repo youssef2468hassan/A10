@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Cookie Test</title>
+    <title>Cookiesss</title>
     <script>
         function setCookie(cname, cvalue, exdays) {
             var d = new Date();
@@ -42,7 +42,7 @@
     </script>
 </head>
 <body onload="checkCookie()">
-<h1>My Cookie Test</h1>
+<h1>Cookiesss</h1>
 <p>&copy; Youssef Hassan, 2025</p>
 </body>
 </html>
